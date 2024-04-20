@@ -1,0 +1,14 @@
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/bin/Debug/net8.0/TestFileBuilder
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/bin/Debug/net8.0/TestFileBuilder.deps.json
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/bin/Debug/net8.0/TestFileBuilder.runtimeconfig.json
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/bin/Debug/net8.0/TestFileBuilder.dll
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/bin/Debug/net8.0/TestFileBuilder.pdb
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/TestFileBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/TestFileBuilder.AssemblyInfoInputs.cache
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/TestFileBuilder.AssemblyInfo.cs
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/TestFileBuilder.csproj.CoreCompileInputs.cache
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/TestFileBuilder.dll
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/refint/TestFileBuilder.dll
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/TestFileBuilder.pdb
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/TestFileBuilder.genruntimeconfig.cache
+/Users/vadim/RiderProjects/AltiumBigDataSort/TestFileBuilder/obj/Debug/net8.0/ref/TestFileBuilder.dll
